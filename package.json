@@ -2,12 +2,12 @@
 	"name": "passport-pnoi",
 	"version": "0.1.0",
 	"description": "OAuth2 client authentication for PN:OI using passport.js",
-	"keywords": ["pnoi", "passport", "oauth2", "auth", "authentication", "identity", "api", "json"],
 	"author": "kdi",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
 	],
 	"homepage": "http://pnoi.net",
+	"keywords": ["pnoi", "passport", "oauth2", "auth", "authentication", "identity", "api", "json"],
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/pnoi/passport.git"
